@@ -1,0 +1,8 @@
+MAXTtipe Example
+{START document}
+{OUTPUT C://Users/Owner/Desktop/x.pdf}
+Hey.
+Hope you like this.
+It was made with MaxTIPE
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non magna viverra, auctor nulla ut, eleifend nisi. Cras eget erat ante. Ut sit amet magna quam. Sed porta laoreet volutpat. Vivamus ligula mauris, vulputate a lorem vitae, cursus interdum mauris. Sed ante justo, porta et velit vel, laoreet porta tortor. Pellentesque rutrum purus turpis, eu feugiat felis mollis a. Donec eros nisl, blandit sed hendrerit sed, molestie id nibh. In nunc nunc, pellentesque et diam at, sodales lobortis elit. Suspendisse vitae luctus justo, at tempor lectus. Cras euismod velit vitae dui egestas fermentum. Mauris nec sagittis massa, eget egestas tellus. Nunc id dolor et leo interdum hendrerit dignissim eget arcu.
+{END document}
